@@ -1,7 +1,6 @@
 # include < stdio .h >
 
 int main () {
-    printf (" ola mundo \n") ;
-    return 1;
+ printf (" ADC RULES !!\n") ;
+ return 1;
 }
- 
